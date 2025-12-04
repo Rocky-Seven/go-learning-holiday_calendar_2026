@@ -1,9 +1,9 @@
 {
   "name": "Go Learning Environment",
-  "image": "mcr.microsoft.com/devcontainers/go:1-1.23-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/go:1-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/go:1": {
-      "version": "latest"
+      "version": "1.25.4"
     }
   },
   "customizations": {
